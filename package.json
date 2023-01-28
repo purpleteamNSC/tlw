@@ -1,0 +1,11 @@
+{
+  "name": "tlw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/purpleteamNSC/tlw",
+  "author": "Purple Team <118991961+purpleteamNSC@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
